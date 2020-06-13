@@ -1,0 +1,26 @@
+{
+  "name": "findmedian_sortedarrays",
+  "version": "1.0.0",
+  "description": "find median sorted arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearningChautari/debug_findMedianSortedArrays.git"
+  },
+  "keywords": [
+    "find",
+    "median"
+  ],
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearningChautari/debug_findMedianSortedArrays/issues"
+  },
+  "homepage": "https://github.com/LearningChautari/debug_findMedianSortedArrays#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
